@@ -20,19 +20,19 @@ const Achivement = () => {
 
         <div className="mt-12 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-6 text-center">
         
-          <div className="bg-[#F7F7F7] py-8 px-4 rounded-lg shadow-sm">
+          <div className=" py-8 px-4 rounded-lg shadow-sm">
             <h1 className="font-bold text-3xl lg:text-4xl text-black">+200</h1>
             <p className="mt-2 text-gray-600 text-sm lg:text-base">Courses</p>
           </div>
-          <div className="bg-[#F7F7F7] py-8 px-4 rounded-lg shadow-sm">
+          <div className=" py-8 px-4 rounded-lg shadow-sm">
             <h1 className="font-bold text-3xl lg:text-4xl text-black">50K</h1>
             <p className="mt-2 text-gray-600 text-sm lg:text-base">Mentors</p>
           </div>
-          <div className="bg-[#F7F7F7] py-8 px-4 rounded-lg shadow-sm">
+          <div className=" py-8 px-4 rounded-lg shadow-sm">
             <h1 className="font-bold text-3xl lg:text-4xl text-black">370K</h1>
             <p className="mt-2 text-gray-600 text-sm lg:text-base">Students</p>
           </div>
-          <div className="bg-[#F7F7F7] py-8 px-4 rounded-lg shadow-sm">
+          <div className=" py-8 px-4 rounded-lg shadow-sm">
             <h1 className="font-bold text-3xl lg:text-4xl text-black">100+</h1>
             <p className="mt-2 text-gray-600 text-sm lg:text-base">Recognition</p>
           </div>
