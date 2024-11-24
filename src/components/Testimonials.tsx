@@ -24,8 +24,8 @@ const Testimonials = () => {
             <IoIosStar className="text-yellow-500" />
             <IoIosStar className="text-yellow-500" />
           </div>
-          <p className="text-lg leading-[27px] mb-4">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+          <p className="text-lg leading-[27px] mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p>
           <div className="flex items-center gap-4">
             <Image src={'/images/testimonial.png'} alt='testimonial1' width={56} height={56} className='rounded-full' />
             <div>
@@ -43,7 +43,7 @@ const Testimonials = () => {
             <IoIosStar className="text-yellow-500" />
             <IoIosStar className="text-yellow-500" />
           </div>
-          <p className="text-lg leading-[27px] mb-4">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+          <p className="text-lg leading-[27px] mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p>
           <div className="flex items-center gap-4">
             <Image src={'/images/testimonial2.png'} alt='testimonial2' width={56} height={56} className='rounded-full' />
             <div>
@@ -61,7 +61,7 @@ const Testimonials = () => {
             <IoIosStar  />
             <IoIosStar  />
           </div>
-          <p className="text-lg leading-[27px] mb-4">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+          <p className="text-lg leading-[27px] mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare</p>
           <div className="flex items-center gap-4">
             <Image src={'/images/testimonial3.png'} alt='testimonial3' width={56} height={56} className='rounded-full' />
             <div>
