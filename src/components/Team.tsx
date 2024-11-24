@@ -1,5 +1,6 @@
-import Image from 'next/image'
+"use client"
 import React from 'react'
+import Image from 'next/image'
 import { IoLogoLinkedin } from "react-icons/io";
 import { IoLogoTwitter } from "react-icons/io";
 import { FaDribbble } from "react-icons/fa6";
