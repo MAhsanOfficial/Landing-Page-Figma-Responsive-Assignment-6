@@ -20,7 +20,7 @@ const Courses = () => {
             <h1 className="text-base">Recommended</h1>
           </div>
           <div className="w-[87px] h-10 px-4 py-2 cursor-pointer">
-            <h1 className="text-base">Best Price</h1>
+            <h1 className="text-base">BestPrice</h1>
           </div>
         </div>
 

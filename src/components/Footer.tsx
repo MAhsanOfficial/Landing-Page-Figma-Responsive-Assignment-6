@@ -15,7 +15,7 @@ const Footer = () => {
           <div className="flex flex-col sm:flex-row sm:justify-between items-center sm:items-start gap-6 mb-12">
             <div className="w-full sm:w-[500px]">
               <h4 className="text-lg font-semibold mb-2">Subscribe to our newsletter</h4>
-              <p className="text-base">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-base ">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
 
             <div className="flex flex-col sm:flex-row sm:items-center sm:gap-4 w-full sm:w-[400px]">
