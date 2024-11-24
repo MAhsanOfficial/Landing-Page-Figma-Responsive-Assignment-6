@@ -1,5 +1,5 @@
-import Image from 'next/image';
 import React from 'react';
+import Image from 'next/image';
 import { IoIosStar } from "react-icons/io";
 import { CgBorderStyleDotted } from "react-icons/cg";
 import { IoArrowBack } from "react-icons/io5";
@@ -24,7 +24,8 @@ const Testimonials = () => {
             <IoIosStar className="text-yellow-500" />
             <IoIosStar className="text-yellow-500" />
           </div>
-          <p className="text-lg leading-[27px] mb-4">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+          <p className="text-lg leading-[27px] mb-4">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
           <div className="flex items-center gap-4">
             <Image src={'/images/testimonial.png'} alt='testimonial1' width={56} height={56} className='rounded-full' />
             <div>
@@ -54,11 +55,11 @@ const Testimonials = () => {
 
         <div className="w-full sm:w-[362.67px] md:w-[362.67px] lg:w-[362.67px] bg-white p-8 border border-black rounded-lg">
           <div className="flex gap-1 mb-4">
-            <IoIosStar className="text-yellow-500" />
-            <IoIosStar className="text-yellow-500" />
-            <IoIosStar className="text-yellow-500" />
-            <IoIosStar className="text-yellow-500" />
-            <IoIosStar className="text-yellow-500" />
+            <IoIosStar />
+            <IoIosStar  />
+            <IoIosStar  />
+            <IoIosStar  />
+            <IoIosStar  />
           </div>
           <p className="text-lg leading-[27px] mb-4">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
           <div className="flex items-center gap-4">
